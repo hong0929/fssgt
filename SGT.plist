@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>https://github.com/hong0929/fssgt/raw/master/SGT.ipa</string>
+                                        <string>https://github.com/hong0929/fssgt/blob/master/SGT.ipa?raw=true</string>
                                 </dict>
                                 <dict>
     				<key>kind</key>
